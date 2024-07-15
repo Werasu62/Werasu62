@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Werasu62
-- 👀 I’m interested in creating bots in the discord
+- 👋 Hi, I’m a developer from Russia
+-  👀 I’m interested in creating bots in the discord
 - 🌱 I’m currently learning C++
 - ⚡ I'm 16 y.o.
 
